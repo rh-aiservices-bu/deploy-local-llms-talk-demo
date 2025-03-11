@@ -8,7 +8,7 @@ As large language models (LLMs) become more accessible, running them locally unl
 
 ## Demos
 
-* Coming Soon!
+* [Demo 1 - Local Model Serving with Podman AI](./demos/model-serving/)
 
 ## Slides
 
