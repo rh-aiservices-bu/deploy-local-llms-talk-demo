@@ -1,0 +1,64 @@
+¿Diseñaremos órganos como diseñamos un dispositivo tecnológico?
+Desinformación y Antenas de Telecomunicación: Cómo Combatir el Miedo con Ciencia
+Gemelos Digitales y la respuesta colaborativa ante catástrofes
+La RosalIA: descifrando sus letras
+La IA no te va a quitar el Grammy
+Análisis Geoespacial con Satélites y Python
+Destapando Infraestructuras Ocultas Maliciosas
+Magical journey through regex engine internals
+Scrolling infinito y otros patrones de diseño adictivos
+From Audio to Insights: Unlocking Business Value with Speech-to-Analytics
+Diagnóstico prenatal de enfermedades genéticas usando Python
+Home Assistant y EspHome: Domótica libre y DIY
+Tenemos que hablar.... (de salud mental en el mundo tech)
+The Apollo Guidance Computer. Anatomía para ingenieros
+¿Qué pasa cuando pinchas en "Login con (...)"?
+Innovando la comunicación digital a través de la interactividad
+¿Puede la IA predecir al presidente? Machine Learning y patrones de voto en EEUU
+Soft skills: Cómo jugar a rol me hizo mejor programadora
+Explorando Gemini Nano: Integración de IA en Apps Android
+Cómo crear contenido multimedia para todos
+JavaScript, make Tik Tok great again
+IA Explicable: desentrañando los problemas de las cajas negras
+Mejorando cómo contar historias en videojuegos
+Recruiters, developers y otros animales
+Sacar el máximo partido a los Import Maps para el despliegue continuo
+Desafiando la Arquitectura de Von Neumann: Chips para una IA Más Poderosa
+Seguridad WiFi
+¿Dónde están, que yo las vea? Mapeando 10.000 viviendas turísticas ilegales
+Un fin del mundo anunciado: Computación cuántica y complejidad con Dragon Ball
+Algoritmos para el Día a Día: Piensa como un Ordenador y Toma Mejores Decisiones
+Detección de deterioro cognitivo en base a rasgos lingüísticos
+Cómo Afrontar y Solucionar Problemas Complejos en Programación
+Dobles digitales en el cine y el rejuvenecimiento facial digital
+Vigilancia Silenciosa: Lo Que el Cifrado No Esconde. Ahora es algo personal
+Estandarización de Datos Médicos: Potenciando la Innovación con Soluciones Cloud
+Gestión del desarrollo software: Requisitos, Infraseres y otras bestias
+Realidad Virtual en la terapia: Dos casos reales en pediatría de un Hospital
+Modernizando el desarrollo de decenas de mini-apps web con Kubernetes
+Privacy-first architecture: local-first and alternatives to GDPR popup
+Buscar trabajo es una💩
+Project IDX: El futuro del desarrollo de software
+Everything You Need to Know About Running LLMs Locally
+Lab Orquesta - Doble testeo a ciegas de una composición de IA para orquesta
+¿Podemos vivir al margen de la tecnología?
+From brain to squads: cómo los agentes están revolucionando la IA
+Building Data Mesh at Scale: Democratizing Stream Processing at Netflix
+El Arte de la Guerra…del testing: Dobladores de Pruebas
+Construyendo interfaces de usuario: diseño modular y la paradoja IKEA
+Cómo dialogar con una base de datos
+¿Están tus datos listos para la era cuántica? La criptografía del futuro
+Superbacterias bajo la lupa de la IA: el futuro de los diagnósticos microbianos
+Surfeando el tsunami de desinformación: IA contra el caos informativo
+API Catalogue: De una idea a una plataforma escalable
+Cosas que aprendí procesando millones de peticiones por segundo
+Servicio de Ubicación para Emergencias en catástrofes
+La era digital oscura y la biblioteca de internet
+La computación del futuro
+Transformando un pueblo de 97 habitantes con tecnología y arte
+Fútbol y tecnología: vender innovación en el deporte más resistente al cambio
+Software Economics
+Robótica blanda usando patrones de origami
+Privacidad en Peligro: ¿Qué Saben de Ti y Cómo Puedes Protegerte?
+Cómo me hice un vatímetro wifi en Rust para ahorrar casi 500€ cargando el coche
+Closing Keynote: Comunicaciones encubiertas en redes de 'Ilegales', Ghost Stories

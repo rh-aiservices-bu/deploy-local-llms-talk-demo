@@ -9,6 +9,9 @@ As large language models (LLMs) become more accessible, running them locally unl
 ## Demos
 
 * [Demo 1 - Local Model Serving with Podman AI](./demos/model-serving/)
+* [Demo 2 - Retrieval Augmented Generation with AnythingLLM](./demos/rag/)
+* [Demo 3 - Private Code Assistant with Continue](./demos/code-assistant)
+* [Demo 4 - Agentic App powered by Streamlit, LangGraph and Podman AI](./demos/agentic-app)
 
 ## Slides
 

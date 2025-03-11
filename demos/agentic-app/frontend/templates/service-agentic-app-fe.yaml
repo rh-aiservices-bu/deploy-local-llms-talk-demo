@@ -1,0 +1,25 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: agentic-app-fe
+  labels:
+    app: agentic-app-fe
+    app.kubernetes.io/component: agentic-app-fe
+    app.kubernetes.io/instance: agentic-app-fe
+    app.kubernetes.io/name: agentic-app-fe
+    app.kubernetes.io/part-of: agentic-app-be
+    app.openshift.io/runtime-version: v1
+spec:
+  ports:
+    - name: 8000-tcp
+      protocol: TCP
+      port: 8000
+      targetPort: 8501
+    - name: 8080-tcp
+      protocol: TCP
+      port: 8080
+      targetPort: 8501
+  type: ClusterIP
+  selector:
+    app: agentic-app-fe
+    deployment: agentic-app-fe

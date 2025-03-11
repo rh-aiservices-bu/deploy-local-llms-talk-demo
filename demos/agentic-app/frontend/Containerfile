@@ -1,0 +1,8 @@
+FROM registry.access.redhat.com/ubi9/python-311
+WORKDIR /chat
+COPY requirements.txt .
+RUN pip install --upgrade pip
+RUN pip install --no-cache-dir --upgrade -r /chat/requirements.txt
+COPY app.py .
+EXPOSE 8000
+ENTRYPOINT [ "streamlit", "run", "app.py" ]

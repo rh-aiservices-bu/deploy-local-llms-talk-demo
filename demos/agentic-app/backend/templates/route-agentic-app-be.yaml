@@ -1,0 +1,22 @@
+kind: Route
+apiVersion: route.openshift.io/v1
+metadata:
+  name: agentic-app-be
+  labels:
+    app: agentic-app-be
+    app.kubernetes.io/component: agentic-app-be
+    app.kubernetes.io/instance: agentic-app-be
+    app.kubernetes.io/name: agentic-app-be
+    app.kubernetes.io/part-of: agentic-app-be
+    app.openshift.io/runtime-version: v1
+spec:
+  to:
+    kind: Service
+    name: agentic-app-be
+    weight: 100
+  port:
+    targetPort: 8080-tcp
+  tls:
+    termination: edge
+    insecureEdgeTerminationPolicy: Redirect
+  wildcardPolicy: None

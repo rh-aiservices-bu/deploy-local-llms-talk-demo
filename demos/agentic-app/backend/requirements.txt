@@ -1,0 +1,16 @@
+fastapi==0.115.8
+uvicorn==0.34.0
+# requests
+# requests-cache
+# retry-requests
+# pandas
+langgraph==0.2.35
+langchain_experimental==0.0.65
+langchain-openai==0.1.25
+termcolor==2.3.0
+duckduckgo_search==7.1.0
+openapi-python-client==0.12.3
+langchain_community==0.2.19
+wikipedia==1.4.0
+dotenv==0.9.9
+yfinance
