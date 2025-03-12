@@ -1,5 +1,7 @@
 ## Agentic APP
 
+<img align="center" width="950" src="../../docs/images/agentic1.png">
+
 * Install the dependencies using UV:
 
 ```bash
