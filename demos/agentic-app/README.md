@@ -37,3 +37,17 @@ give me the largest rivers in the world and sum the distance
 ```md
 Calculate the area of a circle with a radius of 7 meters and then determine how many such circles would fit into a square with a side length of 100 meters
 ```
+
+### Screenshots
+
+* Example 1:
+
+![Agentic App](../../docs/images/01-01-agentic-app.png)
+
+* Example 2:
+
+![Agentic App](../..docs/images/01-02-agentic-app.png)
+
+* Example 3:
+
+![Agentic App](../../docs/images/01-03-agentic-app.png)
