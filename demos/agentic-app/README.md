@@ -10,7 +10,7 @@ source .venv/bin/activate
 uv pip install -r
 ```
 
-* Deploy the Backend:
+* Deploy the Agent/Backend:
 
 ```bash
 cd demos/agentic-app && source .venv/bin/activate
@@ -20,7 +20,7 @@ export API_URL="http://localhost:57364"
 python backend/app.py
 ```
 
-* Install the dependencies using UV:
+* Deploy UI/FrontEnd:
 
 ```bash
 cd demos/agentic-app && source .venv/bin/activate
@@ -46,7 +46,7 @@ Calculate the area of a circle with a radius of 7 meters and then determine how 
 
 * Example 2:
 
-![Agentic App](../..docs/images/01-02-agentic-app.png)
+![Agentic App](../../docs/images/01-02-agentic-app.png)
 
 * Example 3:
 
