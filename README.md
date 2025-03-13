@@ -15,7 +15,8 @@ As large language models (LLMs) become more accessible, running them locally unl
 
 ## Slides
 
-* Coming Soon!
+* [Slides Link - red.ht/local-llm](https://red.ht/local-llm)
+* [Slides (PDF) - Everything You Need to Know About Running LLMs Locally](./slides/[Public]%20Everything%20You%20Need%20to%20Know%20About%20Running%20LLMs%20Locally.pdf)
 
 ## Contributors / Maintainers
 
