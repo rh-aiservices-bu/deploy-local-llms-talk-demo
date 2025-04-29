@@ -1,6 +1,6 @@
-# T3chfest Madrid 2025 - Everything You Need to Know About Running LLMs Locally
+# **Everything You Need to Know About Running LLMs Locally** repository
 
-Repository for the [T3chfest Madrid 2025](https://t3chfest.es/2025/programa/everything-about-running-llms-locally) about Everything You Need to Know About Running LLMs Locally.
+Repository for the `Everything You Need to Know About Running LLMs Locally` session.
 
 ## Abstract
 
