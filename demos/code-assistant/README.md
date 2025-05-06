@@ -17,7 +17,13 @@
 
 ### Prompts to test :D
 
-* Prompt 1: Explaining Code
+* Prompt 1: Write me an example with the Code Assistant Chat
+
+```md
+explain me this code in detail
+```
+
+* Prompt 2: Explaining Code
 
 ```md
 explain me this code in detail
