@@ -20,7 +20,7 @@
 * Prompt 1: Write me an example with the Code Assistant Chat
 
 ```md
-explain me this code in detail
+write a python fastapi example with two routes
 ```
 
 * Prompt 2: Explaining Code

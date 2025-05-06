@@ -2,21 +2,23 @@
 
 <img align="center" width="950" src="../../docs/images/agentic1.png">
 
-* Install the dependencies using UV:
+* Install the dependencies using UV (from scratch):
 
 ```bash
+cd demos/agentic-app
 uv venv
 source .venv/bin/activate
-uv pip install -r
+uv pip install -r backend/requirements.txt
+uv pip install -r frontend/requirements.txt
 ```
 
 * Deploy the Agent/Backend:
 
 ```bash
 cd demos/agentic-app && source .venv/bin/activate
-export MODEL_NAME="bartowski/granite-3.1-8b-instruct-GGUF"
+export MODEL_NAME="ibm-research/granite-3.2-8b-instruct-GGUF"
 export API_KEY="None"
-export API_URL="http://localhost:57364"
+export API_URL="http://localhost:60944"
 python backend/app.py
 ```
 
